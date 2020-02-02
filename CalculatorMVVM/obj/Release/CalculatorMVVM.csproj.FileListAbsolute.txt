@@ -1,0 +1,8 @@
+C:\Users\rinat\source\repos\CalculatorMVVM\obj\Release\CalculatorMVVM.csprojAssemblyReference.cache
+C:\Users\rinat\source\repos\CalculatorMVVM\obj\Release\KeyBoard.g.cs
+C:\Users\rinat\source\repos\CalculatorMVVM\obj\Release\MainWindow.g.cs
+C:\Users\rinat\source\repos\CalculatorMVVM\obj\Release\OperatorsBoard.g.cs
+C:\Users\rinat\source\repos\CalculatorMVVM\obj\Release\App.g.cs
+C:\Users\rinat\source\repos\CalculatorMVVM\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\rinat\source\repos\CalculatorMVVM\obj\Release\CalculatorMVVM_MarkupCompile.cache
+C:\Users\rinat\source\repos\CalculatorMVVM\obj\Release\CalculatorMVVM_MarkupCompile.lref
